@@ -1,0 +1,9 @@
+Building pope
+
+See doc/readme-qt.rst for instructions on building pope QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of pope.
+
+See doc/build-*.txt for instructions on building poped,
+the intended-for-services, no-graphical-interface, reference
+implementation of pope.
